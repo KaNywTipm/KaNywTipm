@@ -12,7 +12,7 @@ Hello! My name is Kanyawee, and I have been studying various programming languag
 * 🤝  I'm open to collaborating on I am open to collaborating on projects related to web development, data analysis, and software development.
 * ⚡  In addition to coding, I have a keen interest in learning new technologies and staying updated with the latest trends in the tech industry.
 
-### Skills
+### Learning
 
 
 <p align="left">
