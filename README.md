@@ -8,7 +8,7 @@ I have been studying various programming languages for the past 2-3 years. Durin
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [66025997@up.ac.th](mailto:66025997@up.ac.th)
-* 🧠  I'm learning I am also exploring frameworks and tools related to web development and data science.
+* 🧠  I'm learning and also exploring frameworks and tools related to web development and data science.
 * 🤝  I'm open to collaborating on I am open to collaborating on projects related to web development, data analysis, and software development.
 * ⚡  In addition to coding, I have a keen interest in learning new technologies and staying updated with the latest trends in the tech industry.
 
