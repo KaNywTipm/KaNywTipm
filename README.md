@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student at University of Phayao
 -------------------------------
 
-I have been studying various programming languages for the past 2-3 years. During this time, I have gained experience in languages such as Python, JavaScript, HTML, CSS and Java. I am passionate about coding and continuously strive to improve my skills and knowledge in the field. I look forward to connecting with others who share the same enthusiasm for technology and programming.
+I have been studying various programming languages for the past 2-3 years. During this time, I have gained experience in languages such as HTML, CSS, Python, JavaScript  and Java. I am passionate about coding and continuously strive to improve my skills and knowledge in the field. I look forward to connecting with others who share the same enthusiasm for technology and programming.
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [66025997@up.ac.th](mailto:66025997@up.ac.th)
+* ✉️  You can contact me at [66025997@up.ac.th](mailto:66025997@up.ac.th) <-- school or [kanyaweetipmod@gmail.com](mailto:kanyaweetipmod@gmail.com) <-- personal
 * 🧠  I'm learning and also exploring frameworks and tools related to web development and data science.
 * 🤝  I'm open to collaborating on I am open to collaborating on projects related to web development, data analysis, and software development.
 * ⚡  In addition to coding, I have a keen interest in learning new technologies and staying updated with the latest trends in the tech industry.
