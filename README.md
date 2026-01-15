@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🎓 University of Phayao • 💻 Web Dev • 📊 Data Science (Learning)
+  🎓 University of Phayao • 💻 Web Dev • 📊 Software Development (Learning)
 </p>
 
 <p align="center">
