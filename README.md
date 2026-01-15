@@ -94,12 +94,9 @@ I have been studying various programming languages for the past 2-3 years. Durin
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
-[![KaNywTipm's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaNywTipm&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true)](https://github.com/KaNywTipm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaNywTipm&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaNywTipm&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/KaNywTipm)
-
-<a href="http://www.github.com/KaNywTipm"><img src="https://github-readme-stats.vercel.app/api?username=KaNywTipm&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="KaNywTipm's GitHub stats" /></a>
-
-<a href="http://www.github.com/KaNywTipm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KaNywTipm&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=KaNywTipm&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+>
