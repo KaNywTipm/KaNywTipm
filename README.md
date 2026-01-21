@@ -93,9 +93,3 @@ I enjoy turning ideas into real products, learning new tools, and collaborating 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaNywTipm&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaNywTipm&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaNywTipm&theme=onestar&no-frame=true&margin-w=8" />
-</p>
